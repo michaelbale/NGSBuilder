@@ -32,3 +32,7 @@ The pipeline contains 3 auxiliary python scripts that are optional for handling 
  - cullConsensi.py: grab all consensus sequences from folders containing fasta files with consensus sequences from builder
  - rename_seqs.py: input yaml file of python dictionary to rename sequences
  - bff_parse.py: re-generate sequence from SHIVER base frequencies file using ambiguous bases and custom read-depth parameters
+ 
+ 
+ 
+ All bugs/issues/questions may be directed at michaeljbale93@gmail.com
